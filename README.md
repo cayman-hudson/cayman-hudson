@@ -1,2 +1,6 @@
 # cayman-hudson
 
+I am a former U.S. Navy officer and current MBA student at the University of Hawaiʻi at Mānoa, with a background in leadership, operations, communication, and organizational management. During my naval career, I led teams ranging from 5 to 45 personnel, managed safety and operational programs, coordinated across departments and contractors, and helped execute projects in demanding environments. I earned a B.A. in Communication from Point Loma Nazarene University and am continuing to broaden my business knowledge through graduate study.
+My interests extend beyond traditional business disciplines. I enjoy exploring questions related to leadership, communication, psychology, literature, education, and lifelong learning. I am particularly interested in how organizations and individuals can improve through thoughtful leadership, effective communication, and continual experimentation. After taking time away from traditional employment to travel throughout the contiguous United States and pursue personal growth and development, I am now focused on building the knowledge and experience that will shape my next professional chapter. Drafted with help from ChatGPT (OpenAI, 2026); reviewed and edited by me.
+
+
